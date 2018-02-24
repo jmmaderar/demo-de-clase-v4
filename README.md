@@ -1,6 +1,6 @@
 # demo-de-clase-v4
 Este es para el ejemplo de mezclar los Readme de cada branch
-hola men
+hola mister
 hola mateo
-hi bur
+hi buri
 hola mateo teo teo
