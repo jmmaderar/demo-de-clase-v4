@@ -1,7 +1,6 @@
 # demo-de-clase-v4
 Este es para el ejemplo de mezclar los Readme de cada branch
 
-Hola 
+Hola 1
 
-Hola 
-
+Hola 2
